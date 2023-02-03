@@ -1,8 +1,7 @@
-package com.ma.orgstaffmanagement.controller;
+package com.spangles.staffmanagement.controller;
 
-import com.ma.orgstaffmanagement.dto.StaffDto;
-import com.ma.orgstaffmanagement.entity.Staff;
-import com.ma.orgstaffmanagement.service.StaffService;
+import com.spangles.staffmanagement.dto.StaffDto;
+import com.spangles.staffmanagement.service.StaffService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

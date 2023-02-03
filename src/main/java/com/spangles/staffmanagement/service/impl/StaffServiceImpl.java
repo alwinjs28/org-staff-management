@@ -1,10 +1,10 @@
-package com.ma.orgstaffmanagement.service.impl;
+package com.spangles.staffmanagement.service.impl;
 
-import com.ma.orgstaffmanagement.dto.StaffDto;
-import com.ma.orgstaffmanagement.entity.Staff;
-import com.ma.orgstaffmanagement.repository.StaffRepository;
-import com.ma.orgstaffmanagement.service.StaffService;
-import com.ma.orgstaffmanagement.util.StaffUtil;
+import com.spangles.staffmanagement.dto.StaffDto;
+import com.spangles.staffmanagement.entity.Staff;
+import com.spangles.staffmanagement.repository.StaffRepository;
+import com.spangles.staffmanagement.service.StaffService;
+import com.spangles.staffmanagement.util.StaffUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

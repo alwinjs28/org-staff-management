@@ -1,6 +1,6 @@
-package com.ma.orgstaffmanagement.repository;
+package com.spangles.staffmanagement.repository;
 
-import com.ma.orgstaffmanagement.entity.Staff;
+import com.spangles.staffmanagement.entity.Staff;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

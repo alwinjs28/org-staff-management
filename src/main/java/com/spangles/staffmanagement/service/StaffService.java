@@ -1,6 +1,6 @@
-package com.ma.orgstaffmanagement.service;
+package com.spangles.staffmanagement.service;
 
-import com.ma.orgstaffmanagement.dto.StaffDto;
+import com.spangles.staffmanagement.dto.StaffDto;
 
 public interface StaffService {
     public StaffDto getStaff(Long staffId);
