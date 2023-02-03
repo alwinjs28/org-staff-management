@@ -1,4 +1,4 @@
-package com.ma.orgstaffmanagement;
+package com.spangles.staffmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.ma.orgstaffmanagement.entity;
+package com.spangles.staffmanagement.entity;
 
 
 import javax.persistence.*;

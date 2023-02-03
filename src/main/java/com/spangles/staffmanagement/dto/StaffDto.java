@@ -1,4 +1,4 @@
-package com.ma.orgstaffmanagement.dto;
+package com.spangles.staffmanagement.dto;
 
 import java.io.Serializable;
 
